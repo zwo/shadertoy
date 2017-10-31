@@ -13,9 +13,9 @@ void mainImage( out vec4 fragColor, in vec2 fragCoord )
     vec3 color=BGcolor;
 
     vec2 circlePosition = vec2(0.2,0.2);
-    float angle = atan(uv.x,uv.y);//range -π, π
-    float range = sin(angle*10.)*0.1 + 0.5;
-    float len = length(uv);
+    float angle = atan(uv.x-circlePosition.x,uv.y-circlePosition.y);//range -π, π
+    float range = sin(angle*10.)*0.1 + 0.3;
+    float len = length(uv-circlePosition);
     if(len<range && len>0.1) color = color_3;
 
        
