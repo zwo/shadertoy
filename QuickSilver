@@ -1,1 +1,154 @@
-<mxfile host="app.diagrams.net" modified="2021-06-11T08:25:40.520Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36 Edg/91.0.864.41" version="14.7.7" etag="vlPBgHf4dKCj3CsJeKLR" type="github"><diagram id="PEpBpYItMCsUdY7QCFmi">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-11T09:15:51.061Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36 Edg/91.0.864.41" etag="N_NlRO3yslFSAeS3lKX-" version="14.7.7" type="github">
+  <diagram id="PEpBpYItMCsUdY7QCFmi" name="Page-1">
+    <mxGraphModel dx="1422" dy="1894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ceqNtope60lI7gUEg2cL-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.661;entryY=-0.015;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ceqNtope60lI7gUEg2cL-1" target="ceqNtope60lI7gUEg2cL-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ceqNtope60lI7gUEg2cL-1" value="&lt;h1&gt;QuickSilver&lt;/h1&gt;&lt;p&gt;Allow members to opt down benefits to obtain Flex Dollars, which can be spent on different items related to insurance&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="-40" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ceqNtope60lI7gUEg2cL-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ceqNtope60lI7gUEg2cL-2" target="ceqNtope60lI7gUEg2cL-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ceqNtope60lI7gUEg2cL-2" value="FVP" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="60" y="190" width="270" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="ceqNtope60lI7gUEg2cL-3" value="功能：团险自选，包含Life和medical" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ceqNtope60lI7gUEg2cL-2">
+          <mxGeometry x="65" y="30" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ceqNtope60lI7gUEg2cL-5" value="选保险plan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ceqNtope60lI7gUEg2cL-2">
+          <mxGeometry x="16" y="60" width="75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ceqNtope60lI7gUEg2cL-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ceqNtope60lI7gUEg2cL-2" source="ceqNtope60lI7gUEg2cL-6" target="ceqNtope60lI7gUEg2cL-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ceqNtope60lI7gUEg2cL-6" value="review 选择" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ceqNtope60lI7gUEg2cL-2">
+          <mxGeometry x="16" y="110" width="75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ceqNtope60lI7gUEg2cL-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ceqNtope60lI7gUEg2cL-2" source="ceqNtope60lI7gUEg2cL-7" target="ceqNtope60lI7gUEg2cL-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ceqNtope60lI7gUEg2cL-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ceqNtope60lI7gUEg2cL-2" source="ceqNtope60lI7gUEg2cL-7" target="ceqNtope60lI7gUEg2cL-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ceqNtope60lI7gUEg2cL-7" value="付款" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ceqNtope60lI7gUEg2cL-2">
+          <mxGeometry x="16" y="160" width="75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ceqNtope60lI7gUEg2cL-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=-0.036;entryY=0.077;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ceqNtope60lI7gUEg2cL-2" source="ceqNtope60lI7gUEg2cL-8" target="ceqNtope60lI7gUEg2cL-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ceqNtope60lI7gUEg2cL-8" value="payment result" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ceqNtope60lI7gUEg2cL-2">
+          <mxGeometry x="16" y="210" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ceqNtope60lI7gUEg2cL-10" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ceqNtope60lI7gUEg2cL-2" source="ceqNtope60lI7gUEg2cL-5" target="ceqNtope60lI7gUEg2cL-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="110" as="sourcePoint" />
+            <mxPoint x="390" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ceqNtope60lI7gUEg2cL-13" value="付款方式" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="ceqNtope60lI7gUEg2cL-2">
+          <mxGeometry x="140" y="76" width="110" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="ceqNtope60lI7gUEg2cL-14" value="积分 " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ceqNtope60lI7gUEg2cL-13">
+          <mxGeometry y="26" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ceqNtope60lI7gUEg2cL-15" value="年假换算抵扣" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ceqNtope60lI7gUEg2cL-13">
+          <mxGeometry y="52" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ceqNtope60lI7gUEg2cL-16" value="payment gateway" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ceqNtope60lI7gUEg2cL-13">
+          <mxGeometry y="78" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ceqNtope60lI7gUEg2cL-18" value="后续处理" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="ceqNtope60lI7gUEg2cL-2">
+          <mxGeometry x="120" y="220" width="140" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="ceqNtope60lI7gUEg2cL-19" value="PDF付款收据下载" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ceqNtope60lI7gUEg2cL-18">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ceqNtope60lI7gUEg2cL-20" value="未完成/部分付款订单" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ceqNtope60lI7gUEg2cL-18">
+          <mxGeometry y="52" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ceqNtope60lI7gUEg2cL-24" value="技术难点" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="105" y="580" width="180" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="ceqNtope60lI7gUEg2cL-25" value="选plan的逻辑和限制在前端做" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ceqNtope60lI7gUEg2cL-24">
+          <mxGeometry y="26" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ceqNtope60lI7gUEg2cL-26" value="页面动态根据可买产品动态展示" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ceqNtope60lI7gUEg2cL-24">
+          <mxGeometry y="52" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ceqNtope60lI7gUEg2cL-29" value="IVS Individual Voluntary Solutions" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="690" y="240" width="230" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ceqNtope60lI7gUEg2cL-31" value="目前只有一个产品：stepup medical protection" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ceqNtope60lI7gUEg2cL-29">
+          <mxGeometry x="30" y="70" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ceqNtope60lI7gUEg2cL-32" value="基本流程与FVP类似" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ceqNtope60lI7gUEg2cL-29">
+          <mxGeometry x="58" y="113" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ceqNtope60lI7gUEg2cL-33" value="难点：表单字段校验" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ceqNtope60lI7gUEg2cL-29">
+          <mxGeometry x="55" y="150" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ceqNtope60lI7gUEg2cL-30" value="功能：推广个险" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ceqNtope60lI7gUEg2cL-29">
+          <mxGeometry x="40" y="40" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ceqNtope60lI7gUEg2cL-34" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="10" width="20" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="ceqNtope60lI7gUEg2cL-35" value="异同" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="390" y="60" width="250" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="ceqNtope60lI7gUEg2cL-36" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ceqNtope60lI7gUEg2cL-35">
+          <mxGeometry y="30" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ceqNtope60lI7gUEg2cL-37" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="ceqNtope60lI7gUEg2cL-36">
+          <mxGeometry width="56" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ceqNtope60lI7gUEg2cL-38" value="都是团险产品，可通过积分买IVS" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="ceqNtope60lI7gUEg2cL-36">
+          <mxGeometry x="56" width="194" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ceqNtope60lI7gUEg2cL-39" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ceqNtope60lI7gUEg2cL-35">
+          <mxGeometry y="60" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ceqNtope60lI7gUEg2cL-40" value="2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="ceqNtope60lI7gUEg2cL-39">
+          <mxGeometry width="56" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ceqNtope60lI7gUEg2cL-41" value="QS自动开通" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="ceqNtope60lI7gUEg2cL-39">
+          <mxGeometry x="56" width="194" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ceqNtope60lI7gUEg2cL-42" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ceqNtope60lI7gUEg2cL-35">
+          <mxGeometry y="90" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ceqNtope60lI7gUEg2cL-43" value="3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="ceqNtope60lI7gUEg2cL-42">
+          <mxGeometry width="56" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ceqNtope60lI7gUEg2cL-44" value="QS只有medical" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="ceqNtope60lI7gUEg2cL-42">
+          <mxGeometry x="56" width="194" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ceqNtope60lI7gUEg2cL-45" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ceqNtope60lI7gUEg2cL-35">
+          <mxGeometry y="120" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ceqNtope60lI7gUEg2cL-46" value="4" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="ceqNtope60lI7gUEg2cL-45">
+          <mxGeometry width="56" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ceqNtope60lI7gUEg2cL-47" value="QS只有Core/opt down两个选项" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="ceqNtope60lI7gUEg2cL-45">
+          <mxGeometry x="56" width="194" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ceqNtope60lI7gUEg2cL-48" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ceqNtope60lI7gUEg2cL-35">
+          <mxGeometry y="150" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ceqNtope60lI7gUEg2cL-49" value="5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="ceqNtope60lI7gUEg2cL-48">
+          <mxGeometry width="56" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ceqNtope60lI7gUEg2cL-50" value="合保单全家必须选同一个plan" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="ceqNtope60lI7gUEg2cL-48">
+          <mxGeometry x="56" width="194" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ceqNtope60lI7gUEg2cL-60" value="通过opt down 获得Flex money用于购买IVS，过程自动计算" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="-50" width="207" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
